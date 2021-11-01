@@ -14,5 +14,5 @@ let mensagem4 = `Pelo o que você me disse acho que vc tem uns... ${idade} anos 
 alert( mensagem1 )
 
 if ( idade >= 12 ) {alert ( mensagem3 ) } 
-else if ( idade < 12 ) {alert ( mensagem4) } 
-else {alert( mensagem2) }
+else if ( idade < 12 ) {alert ( mensagem4 ) } 
+else { alert ( mensagem2 ) }
