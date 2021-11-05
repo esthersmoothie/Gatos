@@ -16,4 +16,4 @@ alert( mensagem1 )
 
 if ( idade >= 12 ) {alert ( mensagem2 ) } 
 else if ( idade < 12 ) {alert ( mensagem3 ) } 
-else ( idade >= 18) {alert ( mensagem4 ) }
+else { alert ( mensagem4 ) }
